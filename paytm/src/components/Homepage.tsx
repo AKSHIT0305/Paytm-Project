@@ -40,6 +40,7 @@ const Homepage = () => {
                     <img className='w-90 m-4 h-30' src={img.travel_pass} alt="" />
                 </div>
             </div>
+            
         </>
     )
 }
